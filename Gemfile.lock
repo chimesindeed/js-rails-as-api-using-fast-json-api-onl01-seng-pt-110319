@@ -45,6 +45,7 @@ GEM
     arel (9.0.0)
     bootsnap (1.4.6)
       msgpack (~> 1.0)
+<<<<<<< HEAD
     builder (3.2.4)
     byebug (11.1.3)
     concurrent-ruby (1.1.6)
@@ -53,6 +54,16 @@ GEM
     fast_jsonapi (1.5)
       activesupport (>= 4.2)
     ffi (1.13.1)
+=======
+    builder (3.2.3)
+    byebug (11.0.1)
+    concurrent-ruby (1.1.5)
+    crass (1.0.5)
+    erubi (1.8.0)
+    fast_jsonapi (1.5)
+      activesupport (>= 4.2)
+    ffi (1.10.0)
+>>>>>>> 6527cd2fc55af9e413f950eea72b92c6591e52c7
     globalid (0.4.2)
       activesupport (>= 4.2.0)
     i18n (1.8.3)
